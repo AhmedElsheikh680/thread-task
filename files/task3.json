@@ -1,0 +1,225 @@
+{"RateResponse": {
+    "Status": "OK",
+    "Order": {
+        "sequence": 1,
+        "Quotes": {"Quote": [
+            {
+                "Warehouse": "Chicago",
+                "method": "GD",
+                "Service": {
+                    "trackable": "YES",
+                    "signatureRequired": "NO",
+                    "deliveryConfirmation": "YES",
+                    "content": "USPS Priority Mail Flat Rate Small\n        Box"
+                },
+                "CarrierCode": "USPS PMFS",
+                "Cost": {
+                    "converted": "NO",
+                    "originalCost": 5.9,
+                    "currency": "USD",
+                    "originalCurrency": "USD",
+                    "content": 5.9
+                },
+                "DeliveryEstimate": {
+                    "Minimum": {
+                        "units": "days",
+                        "content": 2
+                    },
+                    "Maximum": {
+                        "units": "days",
+                        "content": 3
+                    }
+                },
+                "Subtotals": {"Subtotal": [
+                    {
+                        "type": "Freight",
+                        "Cost": {
+                            "converted": "NO",
+                            "originalCost": 5.9,
+                            "currency": "USD",
+                            "originalCurrency": "USD",
+                            "content": 5.9
+                        }
+                    },
+                    {
+                        "type": "Insurance",
+                        "Cost": {
+                            "converted": "NO",
+                            "originalCost": 0,
+                            "currency": "USD",
+                            "originalCurrency": "USD",
+                            "content": 0
+                        }
+                    },
+                    {
+                        "type": "Packaging",
+                        "Cost": {
+                            "converted": "NO",
+                            "originalCost": 0,
+                            "currency": "USD",
+                            "originalCurrency": "USD",
+                            "content": 0
+                        }
+                    },
+                    {
+                        "includedInCost": "NO",
+                        "type": "Handling",
+                        "Cost": {
+                            "converted": "NO",
+                            "originalCost": 0,
+                            "currency": "USD",
+                            "originalCurrency": "USD",
+                            "content": 0
+                        }
+                    }
+                ]}
+            },
+            {
+                "Warehouse": "Chicago",
+                "method": "2D",
+                "Service": {
+                    "trackable": "YES",
+                    "signatureRequired": "NO",
+                    "deliveryConfirmation": "YES",
+                    "content": "UPS Second Day Air"
+                },
+                "CarrierCode": "UPS 2D",
+                "Cost": {
+                    "converted": "NO",
+                    "originalCost": 30.41,
+                    "currency": "USD",
+                    "originalCurrency": "USD",
+                    "content": 30.41
+                },
+                "DeliveryEstimate": {
+                    "Minimum": {
+                        "units": "days",
+                        "content": 2
+                    },
+                    "Maximum": {
+                        "units": "days",
+                        "content": 2
+                    }
+                },
+                "Subtotals": {"Subtotal": [
+                    {
+                        "type": "Freight",
+                        "Cost": {
+                            "converted": "NO",
+                            "originalCost": 30.41,
+                            "currency": "USD",
+                            "originalCurrency": "USD",
+                            "content": 30.41
+                        }
+                    },
+                    {
+                        "type": "Insurance",
+                        "Cost": {
+                            "converted": "NO",
+                            "originalCost": 0,
+                            "currency": "USD",
+                            "originalCurrency": "USD",
+                            "content": 0
+                        }
+                    },
+                    {
+                        "type": "Packaging",
+                        "Cost": {
+                            "converted": "NO",
+                            "originalCost": 0,
+                            "currency": "USD",
+                            "originalCurrency": "USD",
+                            "content": 0
+                        }
+                    },
+                    {
+                        "includedInCost": "NO",
+                        "type": "Handling",
+                        "Cost": {
+                            "converted": "NO",
+                            "originalCost": 0,
+                            "currency": "USD",
+                            "originalCurrency": "USD",
+                            "content": 0
+                        }
+                    }
+                ]}
+            },
+            {
+                "Warehouse": "Chicago",
+                "method": "1D",
+                "Service": {
+                    "trackable": "YES",
+                    "signatureRequired": "NO",
+                    "deliveryConfirmation": "YES",
+                    "content": "USPS Express Mail"
+                },
+                "CarrierCode": "USPS XP",
+                "Cost": {
+                    "converted": "NO",
+                    "originalCost": 34.5,
+                    "currency": "USD",
+                    "originalCurrency": "USD",
+                    "content": 34.5
+                },
+                "DeliveryEstimate": {
+                    "Minimum": {
+                        "units": "days",
+                        "content": 1
+                    },
+                    "Maximum": {
+                        "units": "days",
+                        "content": 1
+                    }
+                },
+                "Subtotals": {"Subtotal": [
+                    {
+                        "type": "Freight",
+                        "Cost": {
+                            "converted": "NO",
+                            "originalCost": 34.5,
+                            "currency": "USD",
+                            "originalCurrency": "USD",
+                            "content": 34.5
+                        }
+                    },
+                    {
+                        "type": "Insurance",
+                        "Cost": {
+                            "converted": "NO",
+                            "originalCost": 0,
+                            "currency": "USD",
+                            "originalCurrency": "USD",
+                            "content": 0
+                        }
+                    },
+                    {
+                        "type": "Packaging",
+                        "Cost": {
+                            "converted": "NO",
+                            "originalCost": 0,
+                            "currency": "USD",
+                            "originalCurrency": "USD",
+                            "content": 0
+                        }
+                    },
+                    {
+                        "includedInCost": "NO",
+                        "type": "Handling",
+                        "Cost": {
+                            "converted": "NO",
+                            "originalCost": 0,
+                            "currency": "USD",
+                            "originalCurrency": "USD",
+                            "content": 0
+                        }
+                    }
+                ]}
+            }
+        ]}
+    },
+    "ProcessingTime": {
+        "units": "ms",
+        "content": 70
+    }
+}}
